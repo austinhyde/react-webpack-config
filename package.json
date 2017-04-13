@@ -1,14 +1,14 @@
 {
-  "name": "react-boilerplate",
-  "version": "1.0.0",
-  "description": "",
+  "name": "react-webpack-config",
+  "version": "0.1.0",
+  "description": "A simple, ready-to-go Webpack configuration for React apps",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Austin Hyde (austin109@gmail.com)",
+  "license": "MIT",
   "dependencies": {
     "babel-core": "^6.22.1",
     "babel-loader": "^6.2.10",
